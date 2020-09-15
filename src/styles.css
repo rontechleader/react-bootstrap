@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightgray;
+  border-width: 20px;
+}
+.table {
+  background-color: blue;
+}
+.Row {
+  background-color: aqua;
+}
+
+.Ron {
+  background-color: royalblue;
+}
+.Sehaj {
+  background-color: lightcoral;
+}
+.Libby {
+  background-color: orangered;
+}
+.Card {
+  background-color: khaki;
+  margin: 10px;
+}
