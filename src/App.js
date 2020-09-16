@@ -6,7 +6,7 @@ import "holderjs";
 import Buttons from '../src/components/Buttons';
 import Cards from '../src/components/Cards';
 import Dropdowns from '../src/components/Dropdowns';
-import Containers from '../src/components/Containers';
+//import Containers from '../src/components/Containers';
 
 export default function App() {
   return (
@@ -19,7 +19,6 @@ export default function App() {
       <hr />
       <Buttons />
       <hr />
-      <Containers/>
       <hr />
       <Cards />
     </div>
